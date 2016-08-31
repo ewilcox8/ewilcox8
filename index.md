@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Evan Wilcox Art
+
 <div class="lead pretty-links">
  **Evan Wilcox Art**
  
