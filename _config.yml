@@ -12,11 +12,11 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: ewilco202@gmail.com
+email: ewilcox@c.ringling.edu
 author: Evan Wilcox
 twitter_username: rainsfx
 github_username: clenemt
-github_source: jackal
+github_source: 
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
