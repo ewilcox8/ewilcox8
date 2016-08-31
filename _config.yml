@@ -7,14 +7,14 @@ desc: >
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-url: http://jackal.com      # put your website hosting url here
+url: evanwilcox.ga    # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
+email: ewilco202@gmail.com
+author: Evan Wilcox
+twitter_username: rainsfx
 github_username: clenemt
 github_source: jackal
 
