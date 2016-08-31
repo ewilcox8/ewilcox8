@@ -15,7 +15,6 @@ permalink: /:year/:title/   # how should we display posts url
 email: ewilcox@c.ringling.edu
 author: Evan Wilcox
 twitter_username: rainsfx
-github_username: clenemt
 github_source: 
 
 # Put your ga tracking code below
