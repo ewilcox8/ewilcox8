@@ -7,9 +7,9 @@ layout: default
  
  [full name](about/)
 
-[do for a living](work/) 
+[do for a living](resume/) 
 
-[interested in](projects/)
+[interested in](portfolio/)
 
 [writing](articles/)
 
