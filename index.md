@@ -8,7 +8,9 @@ layout: default
  [full name](about/)
 
 [do for a living](work/) 
+
 [interested in](projects/)
+
 [writing](articles/)
 
 </div>
