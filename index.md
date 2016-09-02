@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div class="lead pretty-links">
- **Evan Wilcox Art**
+ **Evan Wilcox**
  
  [full name](about/)
 
-[do for a living](resume/) 
+[resume](resume/) 
 
-[interested in](portfolio/)
+[portfolio](portfolio/)
 
 
 </div>
