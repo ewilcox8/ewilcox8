@@ -11,6 +11,5 @@ layout: default
 
 [interested in](portfolio/)
 
-[writing](articles/)
 
 </div>
