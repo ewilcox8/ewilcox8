@@ -5,7 +5,7 @@ layout: default
 <div class="lead pretty-links">
  **Evan Wilcox**
  
- [full name](about/)
+ewilcox@c.ringling.edu
 
 [resume](resume/) 
 
